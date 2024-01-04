@@ -37,7 +37,7 @@ img {
 .main-btn {
     display: inline-block;
     border-radius: 8px;
-    background: #ffd04e;
+    background: #C499F3;
     color: #FFF;
 
     font-size: 16px;
@@ -51,5 +51,5 @@ img {
 }
 
 .main-btn:hover {
-    background-color: #fdc630;
+    background-color: #F2AFEF;
 }
